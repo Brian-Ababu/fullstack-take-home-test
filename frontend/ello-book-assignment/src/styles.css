@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mullish:wght@400;600&display=swap');
+
+body {
+    font-family: 'Mullish', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+}
+
+.MuiContainer-root {
+    padding: 2rem;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.MuiButton-root {
+    text-transform: none;
+}
