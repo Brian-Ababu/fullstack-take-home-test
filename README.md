@@ -91,22 +91,15 @@ The application will be available at http://localhost:3000.
 ---
 
 1. Search for Books 
-   - Type a book title in the search bar. 
-   - View the search results below the search bar.
+   - Type a book title in the search bar.
+   - Review the choices as you type.
+   - View the search results in the Book Assignment View.
 2. Add Books to Reading List 
-   - Click the "Add" button next to a book in the search results to add it to the reading list.
+   - Click the "Add" button below a book in the book assignment view to add it to the reading list.
+3. Switch to the Reading List View
+   - On this view you can see all the books you have added.
 3. Remove Books from Reading List
    - Click the "Remove" button next to a book in the reading list to remove it.
-
-## Contributing
-
----
-
-- Fork the repository
-- Create a new branch: git checkout -b feature/your-feature-name
-- Commit your changes: git commit -m 'Add some feature' 
-- Push to the branch: git push origin feature/your-feature-name
-- Open a pull request
 
 ## Acknowledgments
 
